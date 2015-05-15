@@ -4,7 +4,7 @@
 				
 	<tixlegeek@whoarehackers.com>	@tixlegeek #tlgLimeTime
 	
-![alt tag](https://raw.githubusercontent.com/tixlegeek/TixlegeeksLimeTime/master/example2.png)
+![alt tag](https://raw.githubusercontent.com/tixlegeek/TixlegeeksLimeTime/master/exemple2.png)
 
 	Developpement oriented syntax-highlighting-scheme for Gedit
 	Based on Monokai theme.
