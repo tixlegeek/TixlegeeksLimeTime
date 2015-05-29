@@ -1,4 +1,5 @@
 # TixlegeeksLimeTime
+```
 /**
 				.___.    .            .   *   
 				  |  *\./| _  _  _  _ ;_/ ' __
@@ -19,7 +20,7 @@
 		Developpement-oriented syntax-highlighting theme for Gedit
 		Based on Monokai theme.
 */
-
+```
 ## Example
 	
 ![alt tag](https://raw.githubusercontent.com/tixlegeek/TixlegeeksLimeTime/master/ExampleTheme.png)
