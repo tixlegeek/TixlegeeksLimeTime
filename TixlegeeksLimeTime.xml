@@ -87,4 +87,6 @@
   <style name="js:regex"	foreground="#c17d11" />
   <style name="selection-unfocused"	foreground="#888a85" background="#2e3436" />
   <style name="identifier"	foreground="#729fcf" />
+  <style name="php:variable"	foreground="#ad7fa8" />
+  <style name="php:keyword"	foreground="#fcaf3e" />
 </style-scheme>
