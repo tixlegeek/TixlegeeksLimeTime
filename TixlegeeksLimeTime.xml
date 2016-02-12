@@ -1,4 +1,4 @@
-<style-scheme name="Tixlegeek's Lime Time!" id="TixlegeeksLimeTime" version="1.0">
+<style-scheme name="Custom Tixlegeek" id="customtixlegeek" version="1.0">
   <author>Tixlegeek tixlegeek@whoarehackers.com</author>
   <description>From Monokai theme</description>
 
@@ -13,24 +13,24 @@
   <style name="def:boolean"	foreground="#8ae234" />
   <style name="def:builtin"	foreground="#ae81ff" />
   <style name="def:character"	foreground="#ae81ff" />
-  <style name="def:comment"	foreground="#73d216" />
+  <style name="def:comment"	foreground="#8ae234" />
   <style name="def:complex"	foreground="#ae81ff" />
   <style name="def:decimal"	foreground="#ae81ff" />
-  <style name="def:doc-comment"	foreground="#4e9a06" />
+  <style name="def:doc-comment"	foreground="#75715e" />
   <style name="def:doc-comment-element"	foreground="#75715e" />
   <style name="def:error"	foreground="#ef2929" />
   <style name="def:floating-point"	foreground="#ae81ff" />
   <style name="def:function"	foreground="#a6e22e" />
-  <style name="def:keyword"	foreground="#fcaf3e" />
+  <style name="def:keyword"	foreground="#fce94f" />
   <style name="def:note"	foreground="#729fcf" />
   <style name="def:number"	foreground="#ae81ff" />
   <style name="def:operator"	foreground="#f92672" />
   <style name="def:preprocessor"	foreground="#fcaf3e" />
   <style name="def:reserved"	foreground="#f92672" />
-  <style name="def:shebang"	foreground="#888a85" />
+  <style name="def:shebang"	foreground="#75715e" />
   <style name="def:special-char"	foreground="#66d9ef" />
   <style name="def:special-constant"	foreground="#ae81ff" />
-  <style name="def:statement"	foreground="#fce94f" />
+  <style name="def:statement"	foreground="#ad7fa8" underline="true" />
   <style name="def:string"	foreground="#edd400" />
   <style name="def:type"	foreground="#66d9ef" italic="true" />
   <style name="draw-spaces"	foreground="#3b3a32" />
@@ -67,26 +67,17 @@
   <style name="rubyonrails:special-variable"	foreground="#f92672" />
   <style name="rubyonrails:symbol"	foreground="#ae81ff" />
   <style name="search-match"	background="#3e3d32" bold="true" underline="true" />
-  <style name="selection"	foreground="#8ae234" background="#4e9a06" />
-  <style name="text"	foreground="#eeeeec" background="#272822" />
+  <style name="selection"	foreground="#f8f8f2" background="#49483e" />
+  <style name="text"	foreground="#d3d7cf" background="#272822" />
   <style name="xml:attribute-name"	foreground="#a6e22e" />
   <style name="xml:element-name"	foreground="#f92672" />
   <style name="xml:namespace"	foreground="#f92672" />
   <style name="xml:tag"	foreground="#f92672" />
   <style name="js:boolean"	foreground="#8ae234" />
   <style name="js:constructors"	foreground="#fcaf3e" />
-  <style name="js:keyword"	foreground="#f92672" />
-  <style name="js:null-value"	foreground="#ef2929" background="#555753" />
-  <style name="js:properties"	foreground="#5c3566" />
-  <style name="js:string"	foreground="#fcaf3e" />
-  <style name="js:type"	foreground="#3465a4" />
-  <style name="js:undefined-value"	foreground="#ef2929" />
-  <style name="js:escape"	foreground="#ad7fa8" />
-  <style name="constant"	foreground="#888a85" />
-  <style name="js:future-words"	foreground="#729fcf" />
-  <style name="js:regex"	foreground="#c17d11" />
-  <style name="selection-unfocused"	foreground="#888a85" background="#2e3436" />
-  <style name="identifier"	foreground="#729fcf" />
-  <style name="php:variable"	foreground="#ad7fa8" />
-  <style name="php:keyword"	foreground="#fcaf3e" />
+  <style name="php:common-function"	foreground="#3465a4" />
+  <style name="php:keyword"	foreground="#729fcf" />
+  <style name="php:variable"	foreground="#e9b96e" />
+  <style name="php:operator"	foreground="#ff0089" />
+  <style name="php:identifier"	foreground="#729fcf" bold="true" />
 </style-scheme>
